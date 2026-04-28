@@ -6,6 +6,10 @@ Site informativo one page sobre a relação bidirecional entre o biofilme dentá
 
 Observação terminológica: o termo correto é **diabetes mellitus**. No site, podemos usar "diabetes" no texto comum e "diabetes mellitus" quando o tom for mais científico.
 
+## Corpo docente
+
+- Eliane Marcon Barroso
+
 ## Objetivo do site
 
 Criar uma página clara, educativa e visualmente organizada para explicar que a saúde bucal e o controle glicêmico se influenciam mutuamente. A mensagem principal será:
