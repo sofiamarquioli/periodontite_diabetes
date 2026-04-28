@@ -1027,11 +1027,26 @@ h3 {
   margin-bottom: 0.55rem;
 }
 
+.footer-logo {
+  display: flex;
+  justify-content: center;
+  width: min(1120px, 100%);
+  margin: 2.1rem auto 0;
+  padding-top: 1.6rem;
+  border-top: 1px solid rgba(255, 255, 255, 0.16);
+}
+
+.footer-logo img {
+  width: min(280px, 72vw);
+  height: auto;
+  padding: 0.75rem 1rem;
+  border-radius: var(--radius);
+  background: rgba(255, 255, 255, 0.95);
+}
+
 .developer-credit {
   width: min(1120px, 100%);
-  margin: 2.2rem auto 0;
-  padding-top: 1.4rem;
-  border-top: 1px solid rgba(255, 255, 255, 0.16);
+  margin: 1.4rem auto 0;
   font-weight: 700;
   text-align: center;
 }
